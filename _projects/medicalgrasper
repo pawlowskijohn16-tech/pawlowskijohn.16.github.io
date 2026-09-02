@@ -1,1 +1,10 @@
-
+---
+layout: post
+title: Medical Grasper
+description:  The Medical Grasper project focused on developing an assistive device for individuals with arthritis to grip objects with minimal finger movement. I collaborated with a team to build and evaluate an Arduino-based prototype integrating a photosensor and servomotor to detect finger motion and actuate the grasper. I also designed a forearm support component in SolidWorks to improve device stability, alignment, and user comfort.
+skills: 
+- SolidWorks
+- 3D Printing
+- Soldering
+main-image: "C:\Users\pawlo\OneDrive\Pictures\Screenshots 1\Screenshot (611).png"
+---
